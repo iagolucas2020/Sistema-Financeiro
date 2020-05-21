@@ -29,7 +29,10 @@ namespace Financerio
 
                 list.Add(new Dados(codigo, data, consumidor));
             }
-                       
+
+            Console.WriteLine("teste01");
+            Console.WriteLine("teste02");
+
             Console.WriteLine("");
             foreach (Dados obj in list)
             {
