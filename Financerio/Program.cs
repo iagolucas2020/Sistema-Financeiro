@@ -31,7 +31,8 @@ namespace Financerio
             }
 
             Console.WriteLine("teste01");
-                       
+            Console.WriteLine("teste02");
+
             Console.WriteLine("");
             foreach (Dados obj in list)
             {
